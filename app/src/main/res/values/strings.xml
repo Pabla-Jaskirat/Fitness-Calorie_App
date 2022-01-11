@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fitness_App</string>
+    
+    <string-array name="Genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="Act">
+        <item>Not Active</item>
+        <item>Lightly Active: exercise 1–2 times/week</item>
+        <item>Moderately Active: exercise 2–3 times/week</item>
+        <item>Very Active: exercise 3–5 times/week</item>
+        <item>Extra Active: exercise 6–7 times/week</item>
+
+    </string-array>
+
+    <string-array name="Goal">
+        <item>Lose 0.5 lbs per week</item>
+        <item>Lose 1 lbs per week</item>
+        <item>Maintain weight</item>
+        <item>Gain 0.5 lbs per week</item>
+        <item>Gain 1 lbs per week</item>
+
+    </string-array>
+</resources>
